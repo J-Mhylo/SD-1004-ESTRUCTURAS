@@ -1,6 +1,6 @@
 # Dibujo de estructuras
 
-![Pues una imagen](/home/mylo/Pictures/StructureDraw.png)
+![Pues una imagen](StructureDraw.png)
 
 - Instagram , usa Grafos en su sistema de seguidores, ya que al seguir a una persona(usuario) hay una conexion, y puede varias conexiones como seguidores en comun, o amigos. 
 
